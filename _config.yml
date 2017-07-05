@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://wajeehayasin.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -37,14 +37,14 @@ disqus:
 facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 medium: medium
@@ -52,9 +52,9 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    Wajeeha Yasin:
+        name: Wajeeha Yasin
+        bio: A girl who is a loves music, code and art
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
